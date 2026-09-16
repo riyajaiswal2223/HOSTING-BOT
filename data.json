@@ -1,0 +1,33 @@
+{
+  "servers": {
+    "1main.py": {
+      "name": "1main.py",
+      "owner": "admin",
+      "runtime": "python",
+      "status": "running",
+      "main_file": "main (11).py",
+      "main_command": "",
+      "port": 8080,
+      "pid": 1490,
+      "created": "2026-08-06T19:46:02.000722"
+    }
+  },
+  "users": {
+    "admin": {
+      "joined": "2026-07-09T13:19:43.636383",
+      "password_hash": "d037863902cf76b54926c115bf5e260a8a197ddd78cf49241185968023d54796"
+    },
+    "rafin": {
+      "joined": "2026-08-06T20:06:51.424560",
+      "password_hash": "f054bc6e0cb27e06e96d2e89ed43cb05ebbe91e25bf63ba960aa27d27fae3463"
+    }
+  },
+  "settings": {
+    "maintenance": false,
+    "maintenance_msg": "System under maintenance.",
+    "theme_color": "#00ff41",
+    "normal_password": "SAROJ2223",
+    "site_name": "SAROJxCLOUD VPS",
+    "auto_restart_interval": 300
+  }
+}
